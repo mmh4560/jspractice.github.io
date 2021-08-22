@@ -1,0 +1,116 @@
+@media only screen and (max-width: 960px) {
+	.container {
+		width:95%;
+		margin:auto;
+	}
+}
+@media only screen and (max-width: 800px) {
+	.logo {
+		width:20%;
+		height:auto;
+		margin:auto;
+		float:none;
+	}
+	.right {
+	width:95%;
+	float:none;
+	margin-top:8px;
+}
+	
+}
+
+@media only screen and (max-width: 768px) {
+	.container {
+		width:96%;
+	}
+	
+	.social-left {
+		width:100%;
+		float:none;
+		text-align:center;
+	}
+	.social-right {
+		width:100%;
+		text-align:center;
+		padding-top:20px;
+	}
+	.social-right ul {
+		float:none;
+	}
+	.main-menu {
+		text-align: center;
+	}
+	.main-menu ul {
+		float:none;
+	}
+	.search {
+		width:100%;
+		float:none;
+		text-align:center;;
+	}
+	.search input[type="text"] {
+		width:65%;
+	}
+	.slider-area .content {
+		width:100%;
+	}
+	.copy-right {
+		display:none;
+	}
+	.copy-right2 {
+		width:100%;
+		text-align:center;
+		display:block;
+	}
+	.copy-right2 a{
+		text-decoration:none;
+		color:#00BB9C;
+	}
+	.footer-menu {
+		width:100%;
+		text-align:center;
+		overflow:hidden;
+	}
+	.footer-menu ul{
+		float:none;
+	}
+	.footer-menu ul li{
+		display:inline;
+	}
+	
+}
+@media only screen and (max-width: 600px) {
+	.main-menu ul li{
+		display:block;
+		margin-top:15px;
+	}
+	.content {
+		width:100%;
+	}
+	.col-3 {
+		width:100%;
+		float:none;
+	}
+	.col-3 i {
+		color: #01ba9a;
+		float: left;
+		font-size: 60px;
+		width: 20%;
+	}
+	.our-service {
+		margin-left:30px;
+	}
+	.col-2 {
+		width:100%;
+		float:none;
+	}
+	.col-4 {
+		width:100%;
+		float:none;
+	}
+	
+	.footer-menu ul li{
+		display:block;
+		margin-top:15px;
+	}
+}
